@@ -115,6 +115,6 @@ Objective: To explore real-world ML workflows, build predictive systems, and dev
 
 📬 Contact:
 
-Email: [dashcodeworks@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/dashmeet-singh-malhotra-6a90a3325/]
-GitHub: [https://github.com/Dashmeet-S-Malhotra]
+Email: harshitvyashv23@gmail.com
+LinkedIn: www.linkedin.com/in/harshit-vyas-3ab537338
+GitHub: https://github.com/codebuggerhv-23
